@@ -1,1 +1,1 @@
-abcd
+Sanner sc = new Scanner();
