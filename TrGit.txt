@@ -1,2 +1,1 @@
-Scanner
-String abc
+Sanner sc = new Scanner();
